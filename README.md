@@ -1,2 +1,2 @@
-# -ython-tasks-mini-projects
+# -python-tasks-mini-projects
 Python exercises and mini projects by levels
